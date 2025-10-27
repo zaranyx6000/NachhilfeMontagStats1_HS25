@@ -1,5 +1,5 @@
-url <- "https://unilu-vpf-statistik.github.io/uebung_statistik1/semester_data2.csv"
-download.file(url, "semester_data2.csv")
+# url <- "https://unilu-vpf-statistik.github.io/uebung_statistik1/semester_data2.csv"
+# download.file(url, "semester_data2.csv")
 
 # Laden des Datensatzes
 semester_data2 <- read.csv("semester_data2.csv")
